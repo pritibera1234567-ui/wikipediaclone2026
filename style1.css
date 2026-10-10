@@ -58,7 +58,7 @@
             position: fixed;
         }
         .middlebox{
-           border: 2px solid black;
+           /* border: 2px solid black; */
           width: 995px;
           height: 5000px;
           margin-top: 59px;
@@ -223,24 +223,24 @@
         display: flex;
         }
         .referance1{
-         border: 2px solid black;
+         /* border: 2px solid black; */
          width: 487px;
          height: 1000px;
         }
         .referance2{
-         border: 2px solid black;
+         /* border: 2px solid black; */
          width: 487px;
          height: 1000px;
         margin-left: 10px;
         }
         .late{
-            border: 2px solid black;
+             /* border-top: 1px solid gray;  */
             width: 940px;
             height: 25px;
            background-color: rgba(215, 215, 235, 0.569);
         }
         .late1{
-        border: 2px solid black;
+        border-top: 1px solid gray;
         height: 200px;
         width: 1459px;
        margin-top: 1670px;
