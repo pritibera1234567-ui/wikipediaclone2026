@@ -1,0 +1,262 @@
+.sector1{
+             /* border: 2px solid black;  */
+            width: 1450px;
+            height: 90px;
+            margin-left: -7px;
+        
+        }
+        .top1{
+            margin-left: 30px;
+            margin-top: 10px;
+            border: none;
+            padding: 0px;
+        }
+        .top2{
+            font-size: 30px;
+        }
+        .top3{
+            font-size: 30px;
+            font-family: serif;
+            padding: 0px;
+        }
+        .top4{
+            margin-left: 60px;
+            font-size: 10px;
+            margin-top: 50px;
+        }
+        .top5{
+          margin-left: 300px;
+          margin-top: -40px;
+          padding: 2px;
+        }
+        .top6{
+            padding-right: 308px;
+            margin-left: 80px;
+        }
+        .top7{
+            padding: 2px;
+        }
+        .top8{
+           text-align: center;
+           height: fit-content;
+           width: fit-content;
+           margin-top: -20px;
+           margin-left: 80%;
+           display: flex;
+           gap: 10px;
+        }
+        .top9{
+            text-decoration: none;
+        }
+        .leftbox{
+            /* border: 2px solid black; */
+            width: 200px;
+            height: 500px;
+            margin-left: 30px;
+            margin-top: 60px;
+            float: left;
+            position: fixed;
+        }
+        .middlebox{
+           border: 2px solid black;
+          width: 995px;
+          height: 5000px;
+          margin-top: 59px;
+          margin-left: 240px;
+        }
+        .rightbox{
+         /* border: 2px solid black; */
+            width: 200px;
+            height: 400px;
+            margin-left: 1250px;
+            margin-top: -4994px;
+            float: right;
+            position: fixed;
+        }
+        .sb1{
+           border-bottom: 1px solid gray;
+            width: 200px;
+            height: 25px;
+        }
+        .sb2{
+            margin-left: 10px;
+        }
+        .sb3{
+            text-decoration: none;
+        }
+        .mb1{
+            border-bottom: 1px solid gray;
+            width: 995px;
+            height: 35px;
+        }
+        .mnb1{
+            font-size: 30px;
+        }
+        .mnb2{
+            margin-left: 900px;
+            margin-bottom: 30px;
+            margin-top: -25px;
+        }
+        .mnb3{
+            text-decoration: none;
+        }
+        .mnb4{
+            text-decoration: none;
+            margin-left: 20px;
+        }
+        .mnb5{
+            text-decoration: none;
+            margin-left: 670px;
+        }
+        .mnb6{
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        .mnb7{
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        .mnb8{
+            margin-left: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .mnb9{
+            text-decoration: none;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            color: blue;
+        }
+        .mnb10{
+            /* border: 2px solid black; */
+            width: 10px;
+            height: 80px;
+            margin-left: 90px;
+            background-color: orange;
+        }
+        .mnb11{
+            /* border: 2px solid black; */
+            width: 700px;
+            height: 80px;
+            margin-left: 102px;
+            margin-top: -84px;
+        }
+        .pngbig{
+            /* border: 2px solid black; */
+            width: 40px;
+            height: 50px;
+            font-size: 40px;
+            margin-top: 20px;
+        }
+        .boxn{
+           /* border: 2px solid black; */
+           width: 650px;
+           height: 55px;
+           margin-left: 45px;
+           margin-top: -60px;
+           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .mnb12{
+            /* border: 2px solid black; */
+            width: 709px;
+            height: 90px;
+            margin-top: 30px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 20px;   
+        }
+        .image1{
+            border: 1px solid gray;
+            width: 271px;
+            height: 313px;
+            margin-left: 718px;
+            margin-top: -94px;
+            background-color: rgb(244, 240, 240);
+        }
+        .image{
+            height: 200px;
+            width: 271px;
+        }
+        .editing1{
+         border-bottom: 1px solid gray;
+         width: 712px;
+         height: 30px;
+         margin-top: -200px;
+         font-size: 25px;
+        }
+        .word1{
+            /* border: 2px solid black; */
+            width: 714px;
+            height: 69px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .image2{
+            border: 1px solid gray; 
+            width: 271px;
+            height: 313px;
+            margin-left: 718px;
+            margin-top: 36px;
+            background-color: rgb(244, 240, 240);
+        }
+        .editing2{
+            border-bottom: 1px solid gray;
+         width: 998px;
+         height: 30px;
+         font-size: 25px;
+        }
+        .write{
+            margin-top: -651px;
+            font-size: 20px;
+        }
+        .century21{
+            /* border: 2px solid black; */
+            width: 713px;
+         font-size: 25px;
+         border-bottom: 1px solid gray;
+        }
+        .visual1{
+            border-bottom: 1px solid gray;
+            width: 996px;
+        }
+        .terms1{
+            margin-top: -339px;
+            font-size: large;
+        }
+        .referance{
+        display: flex;
+        }
+        .referance1{
+         border: 2px solid black;
+         width: 487px;
+         height: 1000px;
+        }
+        .referance2{
+         border: 2px solid black;
+         width: 487px;
+         height: 1000px;
+        margin-left: 10px;
+        }
+        .late{
+            border: 2px solid black;
+            width: 940px;
+            height: 25px;
+           background-color: rgba(215, 215, 235, 0.569);
+        }
+        .late1{
+        border: 2px solid black;
+        height: 200px;
+        width: 1459px;
+       margin-top: 1670px;
+        }
+        .la1{
+        text-decoration: none;
+        color: blue;
+        font-size: 20px;
+        margin-left: 5px;
+        }
+        .pre1{
+            text-decoration: none;
+            margin-left: 20px;
+            color: blue;
+        }
+
+        
+        
+        
